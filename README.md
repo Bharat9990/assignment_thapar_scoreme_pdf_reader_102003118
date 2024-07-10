@@ -10,7 +10,7 @@ This Python script extracts tables from a PDF file and saves them into an Excel 
 - openpyxl
 
 You can install the required packages using pip:
-
+You can run the script using - 
 ```bash
 python extract_tables.py <pdf_file_path> <excel_file_path>
 ``` 
