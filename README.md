@@ -13,6 +13,7 @@ You can install the required packages using pip:
 
 ```bash
 python extract_tables.py <pdf_file_path> <excel_file_path>
+``` 
 
 Script Overview
 extract_tables.py
